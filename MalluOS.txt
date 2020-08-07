@@ -1,0 +1,40 @@
+#Source Side
+
+ - August security patch merged
+ - Basic LineageOS features
+ - MalluOS Specific optimizations 
+ - Faceunlock
+ - Status bar item customization
+ - MIUI Brightness sider
+ - MIUI Volume panel
+ - Brightness control position
+ - Lotee Animation
+ - Theme picker
+ - Typography clock 
+ - Custom Accents
+ - Custom fonts
+ - Pulse Navbar
+ - 4G/LTE toggle
+ - VoLTE Icons
+ - QS Tile title
+ - QS tiles control
+ - Three finger gesture (screenshot)
+ - Lockscreen animations
+ - Lockscreen charging animations
+ - Advanced restart
+ - Charging animations
+ - Gaming Mode
+ - Disable HW keys
+ - Adaptive Playback
+
+#Device Side
+
+ - Merged August Security Patch 
+ - Added Some Tweaks For Optimizations
+ - Tweaked Ram Management 
+ - Switched To BabyShak Kernel (4.9)
+ - Merged LA.UM.8.6.2.r1-08100-89xx.0 Tags
+ - Merged Latest AOSP Tags 
+ - Updated Dalvik heap configuration
+ - Included HWUI For Better Performance 
+ - Misc changes, bug fixes, and optimizations
