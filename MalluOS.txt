@@ -31,7 +31,6 @@ WHATS NEW ,
 
 #Device Side
 
- - Merged August Security Patch 
  - Added Some Tweaks For Optimizations
  - Tweaked Ram Management 
  - Switched To BabyShark Kernel (4.9)
